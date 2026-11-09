@@ -1,4 +1,4 @@
-next_day: 12
+next_day: 13
 started: 2026-10-26
-last_completed_day: 11
-last_date: 2026-11-09
+last_completed_day: 12
+last_date: 2026-11-10
